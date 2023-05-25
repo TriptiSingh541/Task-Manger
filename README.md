@@ -9,6 +9,6 @@ In this task manager you can add your task title,it's description and due date t
  3.You can Update you task by clicking on the "Edit"  button .
  4. You can delete your task from list.You can Delete  you task by clicking on the "Delete"  button .
  5. You can updtaed Incompleted task in completed status just by clicking on the checkbox and it will be renderd to the completed task list.
-  
+ 
  
  
