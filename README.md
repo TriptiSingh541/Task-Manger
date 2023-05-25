@@ -10,5 +10,18 @@ In this task manager you can add your task title,it's description and due date t
  4. You can delete your task from list.You can Delete  you task by clicking on the "Delete"  button .
  5. You can updtaed Incompleted task in completed status just by clicking on the checkbox and it will be renderd to the completed task list.
  
+ # for Setup 
+ 1.Download the code.
+ 2.Openn in VS code or any IDE.
+ 3.Acitvate virtual environment(in VS code open your code then open terminal and write this commond " .\env\Scripts\activate.bat".
+ 4.Now go in  your project for Backend (folder is backend so type "cd backend" in terminal).
+ 5.Now run the command in terminal." python manage.py runserver" for ruuning the server in your localhost.
+ 6.A link will be generated and press CTRL + link . Link will open.
+ 7.Similary goto frontend (folder is frontend  so type "cd frontend" in terminal).
+ 8.Now run the command "npm start" in your terminal
+ 9.It will open a link for you which contains frontend of your application.
+ 
+ 
+ 
  
  
